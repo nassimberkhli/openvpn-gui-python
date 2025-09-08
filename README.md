@@ -20,7 +20,6 @@ Ce projet encapsule la logique de lancement et d’arrêt d’OpenVPN dans une c
 ## 📂 Structure du projet
 
 ```
-
 .
 ├── auth\_file.py        # Gestion des fichiers temporaires pour username/password
 ├── gui.py              # Interface graphique Tkinter
