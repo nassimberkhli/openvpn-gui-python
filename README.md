@@ -1,7 +1,3 @@
-Parfait 👍
-Voici le **code source complet** du `README.md` que tu peux copier-coller directement dans ton projet :
-
-```markdown
 # OpenVPN GUI Client (Python)
 
 Une interface graphique légère en **Tkinter** pour piloter un client **OpenVPN** depuis Python.  
@@ -30,18 +26,15 @@ Ce projet encapsule la logique de lancement et d’arrêt d’OpenVPN dans une c
 ├── gui.py              # Interface graphique Tkinter
 ├── main.py             # Point d'entrée de l'application
 ├── vpn\_controller.py   # Contrôleur du processus OpenVPN
-
-````
-
----
+```
 
 ## 🚀 Installation
 
 1. **Cloner le projet**
-   ```bash
+```
    git clone https://github.com/ton-repo/openvpn-gui-python.git
    cd openvpn-gui-python
-````
+```
 
 2. **Installer les dépendances**
    Aucune dépendance externe n’est nécessaire en dehors de Python standard (Tkinter inclus dans la plupart des distributions).
@@ -84,11 +77,3 @@ Interface :
 * **OS supportés** : Linux, macOS, Windows
 * **Python** : ≥ 3.7
 * **OpenVPN** doit être installé séparément
-
----
-
-## 📜 Licence
-
-Ce projet est distribué sous licence MIT.
-Utilisation libre à vos risques et périls.
-
