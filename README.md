@@ -26,23 +26,6 @@ Ce projet encapsule la logique de lancement et d’arrêt d’OpenVPN dans une c
 ├── main.py             # Point d'entrée de l'application
 ├── vpn\_controller.py   # Contrôleur du processus OpenVPN
 ```
-
-## 🚀 Installation
-
-1. **Cloner le projet**
-```
-   git clone https://github.com/ton-repo/openvpn-gui-python.git
-   cd openvpn-gui-python
-```
-
-2. **Installer les dépendances**
-   Aucune dépendance externe n’est nécessaire en dehors de Python standard (Tkinter inclus dans la plupart des distributions).
-   Assurez-vous que **OpenVPN** est installé et accessible dans votre `PATH` :
-
-   ```bash
-   openvpn --version
-   ```
-
 ---
 
 ## ▶️ Utilisation
